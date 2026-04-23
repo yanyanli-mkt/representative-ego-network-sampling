@@ -1,0 +1,2 @@
+network,population_size,num_edges,avg_degree,avg_clustering,avg_eigen_centrality,density,avg_neighbor_degree
+lasftm_asia,7624,27806,7.2943336831059815,0.21941920251836308,0.001958260425966477,0.0009568849118596328,23.924215334299475
