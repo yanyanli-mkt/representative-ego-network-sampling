@@ -181,3 +181,19 @@ Four estimators are implemented following Aronow & Samii (2017):
 | 02b_summary_tables.py | 1–4 hours |
 | 05_causal_inference.py | 4–12 hours |
 | R figure scripts | < 5 min each |
+
+---
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{li2026representative,
+  title   = {A Representative Sampling Method for Peer Encouragement 
+             Designs in Network Experiments},
+  author  = {Li, Yanyan and Yang, Sha and Liu, Qing},
+  journal = {Marketing Science},
+  year    = {2026}
+}
+```
