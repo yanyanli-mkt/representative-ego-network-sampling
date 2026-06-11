@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+authors:
+  - family-names: Li
+    given-names: Yanyan
+  - family-names: Yang
+    given-names: Sha
+  - family-names: Liu
+    given-names: Qing
+title: "A Representative Sampling Method for Peer Encouragement Designs in Network Experiments"
+journal: "Marketing Science"
+year: 2026
+url: "https://github.com/yanyanli-mkt/representative-ego-network-sampling"
